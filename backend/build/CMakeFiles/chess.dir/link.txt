@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/chess.dir/app/main.cpp.o CMakeFiles/chess.dir/gameplay/board/src/board.cpp.o CMakeFiles/chess.dir/gameplay/piece/src/piece.cpp.o -o bin/chess 
